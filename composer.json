@@ -1,9 +1,12 @@
 {
-    "name": "ddctd143/google-translate",
+    "name": "aitrading/google-translate",
     "description": "Free Laravel package for Paid Google Translate REST API",
     "keywords": ["laravel", "google", "translate", "php"],
     "license": "MIT",
-    "homepage": "http://github.com/ddctd143/google-translate",
+    "homepage": "http://github.com/aitrading/google-translate",
+    "replace": {
+        "ddctd143/google-translate": "*"
+    },
     "authors": [
       {
         "name": "Arturs Terehovics",

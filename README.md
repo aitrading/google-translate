@@ -1,7 +1,7 @@
+This is clone of https://github.com/ddctd143/google-translate which is not available.
+
 Laravel package for Google Translate REST API
 ====================
-
-[![Downloads Total](https://img.shields.io/packagist/dt/ddctd143/google-translate.svg)](https://packagist.org/packages/ddctd143/google-translate)
 
 Package allows to work with [Google Translate API](https://cloud.google.com/translate/)
 
@@ -11,14 +11,14 @@ Package can be installed using composer by adding to "require" object
 
 ```
 "require": {
-    "ddctd143/google-translate": "dev-master"
+    "aitrading/google-translate": "dev-master"
 }
 ```
 
 or from console:
 
 ```
-composer require ddctd143/google-translate dev-master
+composer require aitrading/google-translate dev-master
 ```
 
 
